@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #783ea7;
+        background-image: url(cont.png);
+    img{
+        width : 500%;
+        height: 000%;
+    }
     margin: 0;
     padding: 0;
 }
