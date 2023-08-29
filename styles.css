@@ -1,10 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-        background-image: url(cont.png);
-    img{
-        width : 500%;
-        height: 000%;
-    }
+        background-image: url("contact_background.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        
     margin: 0;
     padding: 0;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .contact-wrapper {
-    background-color:rgb(233, 226, 223);
+    background-color:rgb(255, 255, 254);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding: 40px;
     border-radius: 10px;
@@ -43,7 +43,8 @@ h1 {
     margin-bottom: 15px;
     border: none;
     border-radius: 5px;
-    background-color: #fbf5f5;
+    background-color: #ead9d9;
+    font-size: large;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
 }
 
